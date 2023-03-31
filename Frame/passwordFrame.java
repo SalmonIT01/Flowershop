@@ -6,11 +6,13 @@ import java.awt.*;
 import java.awt.event.*;
 
 
+
 public class passwordFrame extends JFrame implements ActionListener{
     private JButton buttonEnter;
     private JButton buttonBack;
     private JPasswordField pass1;
     private JLabel label1;
+    
 
 
 
